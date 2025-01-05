@@ -1,6 +1,6 @@
 # Notification for new repository
 
-Project is renamed to https://github.com/asukiaaa/clj-server-device-log
+Project was renamed to https://github.com/asukiaaa/clj-server-device-log
 
 # clj-server-practice
 
