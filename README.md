@@ -1,6 +1,8 @@
-# clj-server-practice
+# Notification for new repository
 
-[{"key": "data","json_key":"camera_id","group_by":{"key":"created_at","order"}}]
+Project is renamed to https://github.com/asukiaaa/clj-server-device-log
+
+# clj-server-practice
 
 A project to practice of creating web server in clojure.
 
